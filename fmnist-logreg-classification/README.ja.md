@@ -1,6 +1,6 @@
 # 東大 深層学習講座 コンペティション
 
-[English version](README.md)
+[English](README.md) | 日本語版(Japanese)
 
 ## コンペティション結果
 - **最終順位**: **15位**/1593人中

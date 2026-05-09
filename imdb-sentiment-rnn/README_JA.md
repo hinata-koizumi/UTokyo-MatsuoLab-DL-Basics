@@ -1,6 +1,6 @@
-**日本語** | [English](README.md)
-
 # 東京大学 Deep Learning Course Competition
+
+[English](README.md) | 日本語版(Japanese)
 
 ## コンペ結果
 
